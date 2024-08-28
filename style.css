@@ -35,5 +35,6 @@ body{
   padding: 12px 24px;
   margin-inline:12px ;
   border-radius: 8px;
+  cursor: pointer;
 }
 
